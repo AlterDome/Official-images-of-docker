@@ -1,0 +1,676 @@
+NAME                             DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+ubuntu                           Ubuntu is a Debian-based Linux operating sys…   17651     [OK]       
+mysql                            MySQL is a widely used, open-source relation…   15878     [OK]       
+node                             Node.js is a JavaScript-based platform for s…   13960     [OK]       
+alpine                           A minimal Docker image based on Alpine Linux…   11357     [OK]       
+mariadb                          MariaDB Server is a high performing open sou…   6016      [OK]       
+golang                           Go (golang) is a general purpose, higher-lev…   5056      [OK]       
+ruby                             Ruby is a dynamic, reflective, object-orient…   2395      [OK]       
+logstash                         Logstash is a tool for managing events and l…   2256      [OK]       
+maven                            Apache Maven is a software project managemen…   1641      [OK]       
+amazonlinux                      Amazon Linux provides a stable, secure, and …   1475      [OK]       
+consul                           Consul is a datacenter runtime that provides…   1455      [OK]       
+neo4j                            Neo4j is a highly scalable, robust native gr…   1339      [OK]       
+vault                            Vault is a tool for securely accessing secre…   1162      [OK]       
+composer                         Composer is a dependency manager written in …   1114      [OK]       
+phpmyadmin                       phpMyAdmin - A web interface for MySQL and M…   1114      [OK]       
+adminer                          Database management in a single PHP file.       957       [OK]       
+couchbase                        Couchbase Server is a NoSQL document databas…   929       [OK]       
+gradle                           Gradle is a build tool with a focus on build…   615       [OK]       
+perl                             Perl is a high-level, general-purpose, inter…   470       [OK]       
+jetty                            Jetty provides a Web server and javax.servle…   412       [OK]       
+chronograf                       Chronograf is a visualization tool for time …   366       [OK]       
+bitnami/minideb                  A minimalist Debian-based image built specif…   171                  
+cirros                           CirrOS is a Tiny OS that specializes in runn…   79        [OK]       
+timberio/vector                  A High-Performance Logs, Metrics, and Events…   44                   
+atlassian/pipelines-auth-proxy   A sidecar that acts as a git http(s) proxy t…   1                    
+NAME                                 DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+bililive/recorder                    B站录播姬 BililiveRecorder https://rec.danmu…       33                   
+growthbook/growthbook                GrowthBook - The Open Source A/B Testing Pla…   5                    
+metowolf/bilibilihelper              B 站自动领瓜子、直播挂机脚本                                 4                    
+intrepidde/rpi-tor-relay             Tor relay container for the RaspberryPi (arm…   2                    
+memeddev/docker-wasabi               Wasabi A/B Testing Service container            2                    [OK]
+altringres/demo-b                    b demo                                          1                    
+checkr/flagr                         Flagr is a feature flagging, A/B testing and…   1                    
+diceone/ultimatebot                  b                                               0                    [OK]
+breons/allsorts                      B-ALL Classifier                                0                    
+webmonkey/adsbexchange               Simple feeder for ADS-B Exchange https://www…   0                    [OK]
+rexhsu/hbb                           h b b                                           0                    
+mclueppers/haproxy-consul-template   Blue/green and A/B load-balancer implementat…   0                    [OK]
+acuvity/mcp-server-hackle-mcp        A/B test data query tools for Hackle API.       0                    
+marudor/bahnhofsabfahrten            B                                               0                    [OK]
+stevehtwcp/bserver                   B Report Web API                                0                    
+yuukiyo/ecs-sample-app               ecs B/G Deploy sample                           0                    
+junkmaster/home                      b                                               0                    
+openkruise/kruise-rollout             Provides advanced deployment capabilities s…   0                    
+cpanelos/perl-compiler               Perl patched for the B::C compiler              0                    
+sawana8/banana2                      b-b456                                          0                    
+viggy96/resume-website               Resume website for Vignesh B.                   0                    
+waltplatform/rpi-b-plus-default      Default WALT image for Rpi B+ boards            0                    
+ecobavn/b-contract                   B Contract                                      0                    
+nacyot/system-log-forwarder          b                                               0                    
+waltplatform/rpi-b-default           Default WALT image for Rpi B boards             0                    
+NAME                            DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+apache/nifi-minifi-cpp          Unofficial convenience binaries for NiFi MiN…   5                    
+biocontainers/vcftools          "tools written in Perl and C++ for working w…   5                    [OK]
+bellsoft/alpaquita-linux-gcc    Alpaquita based image for С/C++ development …   4                    
+staphb/samtools                 Tools (written in C using htslib) for manipu…   4                    
+openwhisk/example               Apache OpenWhisk example docker image that i…   3                    
+mcp/cdata-connectcloud          This fully functional MCP Server allows you …   3                    
+solace/docker-qpid-proton       Container for Apache Qpid Proton C and C++ a…   2                    
+mongodb/mongo-cxx-driver        Container image for the C++ driver              2                    
+stagex/clang                    A C language family front-end for LLVM          1                    
+srcml/codespaces                Additional packages for GitHub Codespace bas…   1                    
+biocontainers/bamtools          C++ API & command-line toolkit for working w…   1                    [OK]
+intel/cpp-essentials            Tools for compiling and debugging C++ and SY…   0                    
+tlcfem/vpmr                     C++/Python implementation of the VPMR algori…   0                    
+dtcenter/met-base               Contains external dependencies needed to bui…   0                    
+biocontainers/openms            C++ libraries ans tools for MS/MS data analy…   0                    [OK]
+stagex/libunwind                Portable and efficient C programming interfa…   0                    
+staphb/htslib                   htslib: A C library for reading/writing high…   0                    
+stagex/musl                     The musl c library (libc) implementation        0                    
+photoprism/tensorflow           TensorFlow for C Build Environment              0                    
+bellsoft/hardened-gcc           Hardened Containers image for C/C++ developm…   0                    
+paulsengroup/stripepy           StripePy recognizes architectural stripes in…   0                    
+apachepulsar/pulsar-build-cpp   Docker image used for building the Pulsar C+…   0                    
+biocontainers/isodyn            C++ simulating the dynamics of metabolites a…   0                    [OK]
+hugegraph/rag-bin               HugeGraph GraphRAG image build by Nuitka (Hi…   0                    
+unjudge/cokapi                  Cokapi provides a backend support for the c+…   0                    [OK]
+NAME                                DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+dlanguage/dmd                       DMD - Digital Mars D Compiler                   9                    [OK]
+dlanguage/ldc                       LDC - LLVM D Compiler                           6                    [OK]
+yanyuwangluo/jd-sign                🐕D 自建sign                                       5                    
+dlang2/dmd-ubuntu                   dmd D Programming Language compiler             3                    
+bharathshetty4/supermario           Infinite Mario game in HTML5 JavaScript, run…   2                    
+dwavesys/ocean                      D-Wave Ocean SDK Docker Images                  1                    
+dlangtour/core                      D Language online tour and online editor        1                    
+dlang2/dmd-circleci                 dmd D Programming Language compiler             0                    
+sociomantictsunami/dlang            Sociomantic D Language image  DEPRECATED: Us…   0                    
+dlang2/ldc-ubuntu                   The LLVM-based D Compiler.                      0                    
+steeven9/fenice2                    v2 of our D&D website                           0                    
+codesignal/d-env                    D user code execution environment.              0                    [OK]
+lfenergy/arras                      Open source release of HiPAS GridLAB-D for g…   0                    
+lcinder/order-n-go                  D                                               0                    
+stonemaster/dlang-tour              D Language online tour (https://github.com/s…   0                    
+precon/content-consolidation        d                                               0                    [OK]
+eepmoody/open5e-api                 The API for Open5e, a D&D 5e rules resources…   0                    
+dlang2/ldc-circleci                 LLVM-based D Compiler.                          0                    
+alicanzeybek/linkretrievalservice   d                                               0                    
+jamiegau/catcher_backend            D-Cine.net catcher backend                      0                    
+albertoghedin/spago                 d                                               0                    [OK]
+lezm999/dasdasdasdasdasd            d                                               0                    
+pableeto/docker_env                 docker for daily R&D                            0                    
+lateenadria/deluged                 d                                               0                    [OK]
+tomreeb/web                         docker run -p 8080:80 -d tomreeb/web            0                    
+NAME                                          DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+prestashop/prestashop                         PrestaShop offers a free, fully scalable, Op…   201                  [OK]
+esystemstech/liferay                          Liferay poral - Debian based packing, by E-S…   19                   
+ecomailz/donnie                               ecoMAILZ Version 17.08 donnie (E-Mailarchiv)    6                    
+mcp/securenote-link-mcp-server                SecureNote.link MCP Server - allowing AI age…   1                    
+eucm/storm                                    Base storm container for e-ucm                  1                    [OK]
+nassos/emailrelay                             E-MailRelay application on a Docker container   1                    
+eucm/storm-nimbus                             Nimbus container for e-ucm dockerized storm     1                    [OK]
+labhackercd/edemocracia                       e-Democracia                                    1                    [OK]
+eucm/storm-supervisor                         Storm-supervisor container for e-ucm dockeri…   1                    [OK]
+hivesolutions/budy                            Simple e-commerce infra-structure.              1                    [OK]
+eucm/storm-ui                                 Storm UI container for e-ucm dockerized stor…   1                    [OK]
+abesesr/swish-e-docker                        Packages swish-e search engine into a docker…   0                    
+energiforetagen/ebre-api                      EBR-E API                                       0                    
+magentaaps/eboks                              E-boks-proxy for Grønland                       0                    
+cotangent/sadpandabot                         A discord bot which grabs E-Hentai metadata …   0                    [OK]
+bcfradella/platform-monitor                   E                                               0                    
+pflausino/square-meter-calculator             Um desafio Técnico para praticar e demonstra…   0                    
+energiforetagen/ebre-frontend                 EBR-E frontend                                  0                    
+isptools/probe                                Servidor probe remoto para testes ICMP e DNS.   0                    [OK]
+nuvemonline/glpi                              Imagem Docker para GLPI com PHP 8.2.18 e Apa…   0                    
+davidhrbac/docker-npmcheck                    e                                               0                    [OK]
+mcp/edubase                                   The EduBase MCP server enables Claude and ot…   0                    
+pjknkda/docker-postgres-wale                  Docker image for Postgres with WAL-E integra…   0                    [OK]
+staphb/serotypefinder                         Tool for identifying the serotype of E. coli…   0                    
+aroldoxleite/docker-docker-compose-composer   Docker com docker , docker-compose e composer   0                    [OK]
+NAME                               DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+fstarlang/fstar                    Official F* build.                              3                    [OK]
+malice/fsecure                     Malice F-Secure AntiVirus Plugin                2                    [OK]
+malice/fprot                       Malice F-PROT AntiVirus Plugin                  2                    [OK]
+lertsenem/shoppinglist             ShoppingList Backend for the ShoppingList ap…   1                    
+vilinski/fsharp-canopy             F# with canopy and chrome running headless i…   1                    
+amd64/fsharp                       F# is a multi-paradigm language encompassing…   1                    
+j2ghz/fdroidserver                 F-Droid server                                  1                    [OK]
+fstarlang/fstar-emacs              Official F* build packaged with Emacs           1                    [OK]
+alekseysavitskiy/kafka             f                                               0                    [OK]
+rajesh007x/websystem               Trying Z and F layouts                          0                    
+vmonte/python3.5-psycopg2          f                                               0                    [OK]
+masdaniel/f-and-z-layouts          IS601 homework to make web pages in F Layout…   0                    
+gfanz/hierfstat                    hierfstat: Estimation and Tests of Hierarchi…   0                    
+alekseysavitskiy/filebeat          f                                               0                    [OK]
+gekart/ecsdemo-frontend            f                                               0                    
+pierremonier/f-fstreaming          a f-f streaming app                             0                    
+haithamsakr/falconerpangular       F                                               0                    
+cwempe/docker-dummy                This Image does nothing except `tail -f /dev…   0                    
+sapirkont/lanetracking             f                                               0                    
+abozanich/kail                     kubernetes tail -f                              0                    
+fstarlang/fstar-emacs-nox          Official F* build with Emacs NOX support        0                    [OK]
+garethrobertlee/angular-on-tutum   f                                               0                    [OK]
+rajesh007x/layouts                 Web system Z and F layouts                      0                    
+jesperlahdevirta/rocket-fuel       f                                               0                    
+mariusfeteanu/hemphikid            f                                               0                    [OK]
+NAME                                   DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+frolvlad/alpine-gcc                    The smallest Docker image with gcc and g++ (…   26                   [OK]
+codenvy/cpp_gcc                        Ubuntu, JRE 1.8, g++, gcc, make                 6                    [OK]
+eclipse/cpp_gcc                        Ubuntu, JRE 1.8, g++, gcc, make                 5                    [OK]
+gmao/compiler-gcc                      gcc/g++/gfortran in Centos7                     2                    
+hlavki/g-suite-identity-sync           G Suite to LDAP synchronizer                    2                    
+mmoelle1/gismo                         G+Smo (Geometry + Simulation modules)           1                    
+muefab/genie                           Open Source MPEG-G Codec                        1                    
+giesela/giesela                        The one and only big G (ironically written i…   1                    
+volatilebitfield/cpp                   g++ environment                                 1                    [OK]
+zaphkielivanovna/gperf                 G-Perf DockerFiles                              1                    
+anthonyzou/alpine-build-essentials     Make, gcc, zlib, and g++ in alpine              1                    [OK]
+sippylabs/libg722                      G.722 implementation                            0                    
+yuukiyo/ecs-sample-app                 ecs B/G Deploy sample                           0                    
+gsca20201/gsca20201-micro              A sample micro for g-s-ca20201                  0                    
+sotax/rhel7.3                          base rhel_7.3 image with g++                    0                    
+blaizard/linux_x86_64_gcc              Docker w/g++                                    0                    
+david510c/karaoke-forever              CD+G Karaoke player                             0                    
+loganhart14/runpod-services            g                                               0                    
+codenvy/ubuntu_go                      Ubuntu, Go, gcc, g++, make                      0                    [OK]
+mcp/okta-mcp-fctr                      Secure Okta identity and access management v…   0                    
+manuher/peterg                         Servidor strapi peter g                         0                    
+eclipse/ubuntu_go                      Ubuntu, Go, gcc, g++, make                      0                    [OK]
+easymile/gplusplus-build-env           Minimal G++ build env.                          0                    [OK]
+salim97/debian-buster-opencv-jsoncpp   debian os with g++ and opencv + jsoncpp         0                    
+erxes/runner                           github.com/shinebayar-g/erxes-runner            0                    
+NAME                                           DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+frosty5689/hath                                H@H Client                                      23                   [OK]
+adriel/h265ize                                 h265ize makes it easy to convert videos to h…   9                    [OK]
+datarhei/ffmpeg                                FFmpeg Development Image for H.264-Processing   7                    
+cloverdefa/hath                                H@H Client                                      3                    
+datarhei/nginx-rtmp                            NGINX + RTMP-Module Image for H.264-Processi…   2                    
+tstrohmeier/alpine-infinite-curl               docker run --rm tstrohmeier/alpine-infinite-…   1                    [OK]
+oniicyan99/hentaiathome                        Hentai@Home (H@H, HatH) client with STUN (NA…   1                    
+splashblot/docker-postgis                      Docker image for PostGIS, with CartoDB^H^H t…   1                    [OK]
+dextercai/ubuntu-sshd-gcc-py                   h                                               0                    [OK]
+hgggg/hath                                     Hentai at Home (H@H) client updated to 1.6.4.   0                    
+xiahaijiao/h-shgroup                           h-shgroup                                       0                    
+etycksen/cellranger                            10x CellRanger docker. cellranger -h            0                    
+bluedata/hpecp-bootstrap-hpe-csi-loopbacknfs   h                                               0                    
+michaelmai2000/docker-hath                     H@H                                             0                    [OK]
+sheepgreen/gemini                              https://github.com/H-T-H/Gemini-Telegram-Bot    0                    
+rexhsu/hbb                                     h b b                                           0                    
+khabdrick/quotes                               h                                               0                    
+robertknight/hypothesis-h                      Custom builds of Hypothesis' h service          0                    
+jalcon00/backend                               GEO H BY OLSON CAPITAL                          0                    
+7issa/m3mone3                                  h                                               0                    [OK]
+adrianhesketh/gemini                           A Gemini server (github.com/a-h/gemini)         0                    
+icearea/hath                                   Containerized H@H client with network bridge…   0                    
+splashblot/docker-dronedb                      Dockerized Carto^H^H^H^H^HDroneDB               0                    [OK]
+polardbx/benchmark-boot                        A database benchmark platform, including sys…   0                    
+hyperpilot/slow_cooker                         docker run hyperpilot/slow_cooker -h            0                    
+NAME                                 DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+b3vis/borgmatic                      A container I wrote to automate my Borgbacku…   48                   [OK]
+ggaic/starcraft                      StarCraft I (BroodWar) docker images            10                   
+gubaer/i-doit                        open source CMDB i-doit  - www.i-doit.org       6                    
+inetsoftware/i-net-pdfc-server       i-net PDFC Server Application in a Container.   5                    
+bheisig/idoit                        i-doit CMDB                                     3                    
+matsuu/pt-query-digest               docker run -i --rm matsuu/pt-query-digest < …   3                    [OK]
+clockworksoul/zork1                  Zork I: The Great Underground Empire            1                    [OK]
+aixpertlab/irepo                     i repo                                          0                    
+magentaaps/datafordeler-lookup       Lookup-værktøj til Datafordeleren i Grønland    0                    
+younata/personal-knowledge-builder   docker image I use to build my digital garde…   0                    
+openebs/mayastor-agent-ha-node       Mayastor control plane - I/O path HA monitor…   0                    
+saye16/fio                           FIO- I/O benchmarking tool                      0                    
+vibpsb/i-adhore                      i-ADHoRe can detect degenerated homology rel…   0                    
+tparkerusgs/avoviirscollector        I fetch VIIRS data at AVO                       0                    
+jraqula/rails-gems                   Pre-baked with some Rails gems I use in seve…   0                    
+richardjkendall/keycloak-with-spis   A version of keycloak I use with two SPIs I …   0                    
+foundationkitty/gameservers          Some gameservers I use                          0                    
+magentaaps/ressourcerenter           Administration og indberetning af ressourcer…   0                    
+salkoua/parsebot                     i                                               0                    
+easec/php-webb                       Exempelcontainer som används i .easec:s kurs…   0                    
+tranchis/i-librarian-docker          Docker image for i-librarian                    0                    
+meik99/minecraft-server              because I can                                   0                    
+todfox/samba                         Because I must. I will.                         0                    
+brumbrum/php                         Immagine di base per i containers in PHP di …   0                    [OK]
+openviewdev/pdfconverter             Utilità che converte i docx in PDF              0                    
+NAME                                    DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+jenkins/inbound-agent                   This is an image for Jenkins agents using TC…   146                  
+dhoer/flyway                            Dockerized flyway command-line tool with MyS…   6                    [OK]
+nesachirou/jlang                        Run Linux version of J programming language     2                    
+kabturek/monitor.sh                     Dockerized version of Andrew J Freyers excel…   2                    [OK]
+p1ngod/wildfly-mariadb                  WildFly Docker Image with MariaDB Connector/…   1                    
+yachts/pyfunctioncrawler                N&J Python Funtion Crawler                      1                    
+devonlab/jjobs-springbatch-sample-app   Sample Spring Batch App for J-Jobs              0                    
+ahmadposten/bugs_reporter               j                                               0                    [OK]
+devonlab/jjobs                          J-Jobs Enterprise Edition docker image          0                    
+khalifax009/chain-node                  j                                               0                    
+fracam/vtiger7                          j                                               0                    [OK]
+rodygayz/urluploader                    j                                               0                    
+dinogun/ij                              Build j images                                  0                    [OK]
+jlawyerorg/jlawyer-db                   j-lawyer.org MySQL database, schema and init…   0                    
+serotypej/jrepo1                        j first repo                                    0                    
+jlawyerorg/jlawyer-srv                  j-lawyer.org server - a free and open source…   0                    
+baekjoon/onlinejudge-j                  J                                               0                    
+tklabyrinth/satool                      S.A.Tool - https://gitlab.com/commi-j/satool…   0                    
+purna16/java-maven-app                  j                                               0                    
+lstoll/tjts                             Triple J Timeshifting Streamer                  0                    [OK]
+bobbychen/docker-whale                  j                                               0                    
+gingalab/ffmpeg4_ubuntu1804             Based on J Rottenberg's ffmpeg images           0                    
+yeya24/centraldashboard                 j                                               0                    [OK]
+leooh3151/krjosa                        j                                               0                    
+apache/qpid-broker-j                    Apache Qpid Broker J                            0                    
+NAME                                  DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+jhipster/consul-config-loader         A small docker based tool to load Spring Boo…   9                    [OK]
+runtimeverificationinc/kframework-k   Images for https://github.com/kframework/k      3                    
+klbm126/kosbert_image                 https://github.com/BM-K/KoSentenceBERT          2                    
+phspo/ckmertools                      k-mer based spa-typing                          1                    
+cfshore/payments-public               k                                               0                    
+kgustafs/signalk-server-base          Base to build Signal K docker image             0                    
+staphb/plasmidseeker                  K-mer based program for the ID of known plas…   0                    
+unselected777/docker-deluge           k                                               0                    [OK]
+czbiohub/nf-kmer-similarity           Nextflow workflow for k-mer similarity          0                    
+ddsdocker/django-nginx-kkvet          K&K Vet Supply website image based on django…   0                    
+staphb/seroba                         k-mer based pipeline to serotype Streptococc…   0                    
+navystack/gnuboard-g6                 K-CMS 그누보드6 (gnuboard6) 도커이미지 (자동…              0                    
+rapidfort/camel-k-ib                  RapidFort optimized, hardened image for Apac…   0                    
+meatwadsprite/kprove-batch            k on aws test                                   0                    
+staphb/ksnp4                          kSNP4: K-mer-based phylogenetic inference       0                    
+staphb/kma                            kma: Rapid and precise k-mer alignment again…   0                    
+nullk/concourse-vault-resource        Interact with Vault k/v secrets                 0                    [OK]
+oneofftech/k-search                   A full text search component used for K-Link…   0                    [OK]
+drmechanic/blackpearl                 K!                                              0                    
+dlfnation/docker-whale                k                                               0                    
+alican/litecoin                       Project-K                                       0                    
+fredkeung/kbot                        K Bot                                           0                    
+rootmos/silly-k                       silly-k is an experimental  language inspire…   0                    [OK]
+staphb/ksnp3                          kSNP3: K-mer-based phylgenetic inference        0                    
+fabiosantos/kframework                K Framework                                     0                    
+NAME                         DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+mcp/firecrawl                🔥 Official Firecrawl MCP Server - Adds powe…    11                   
+beet/box                     Beetbox - a pre-provisioned L*MP stack          2                    [OK]
+chapel/chapel-gasnet         Chapel core image, rebuilt with CHPL_COMM=ga…   2                    
+gustav83/php                 PHP CLI images for linting (php -l) differen…   0                    [OK]
+propersoft/docker-l          L in docker                                     0                    [OK]
+luzuri/apachephp             l                                               0                    [OK]
+ghul/llc                     Legacy L compiler                               0                    
+seman/cwrbox2                l.                                              0                    [OK]
+sortednet/ncserver           Runs nc -l 5555                                 0                    
+schrammel/syonet.android     B u I I I L L L d d d                           0                    
+leeminkyu1212/c109-backend   l                                               0                    
+aravindgv/dsp                DSP's images l                                  0                    
+mcp/edubase                  The EduBase MCP server enables Claude and ot…   0                    
+sanzante/clampn              (C)omposer (L)inux (A)pache (M)ariaDB (P)HP7…   0                    
+agaudelas/bench_l            Benchmark images - L                            0                    
+meedan/fdupes                fdupes with the `-L` hardlinking option         0                    [OK]
+hugg/docker-libssl           lll;;l                                          0                    [OK]
+xmastear/roonserver          roonserver L                                    0                    
+youssefbenmiled/website      l                                               0                    
+flowcraft/momps              Sequence based typing of L. pneumophila (Lp)    0                    [OK]
+coovachilli/nginxbackdoor    Attacker IP 172.20.43.105 #nc -v -k -l 172.2…   0                    
+batteurmdr/light-music-ssr   L&M Website                                     0                    
+caelunshun2/runpod-cudnn-9   l                                               0                    
+nicodocker91/phplint         Docker Images that allows you to run the too…   0                    [OK]
+mgamboap/kibana              Kibana L                                        0                    
+NAME                                  DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+controlm/agent                        An image of the Control-M/Agent for Managing…   7                    
+dlandon/z80pack                       CP/M 1, CP/M 2, CP/M 3, and MP/M emulation i…   6                    [OK]
+yaronr/openjdk-7-jre                  Small (> 200 M) and simple Java - 7 Docker i…   3                    [OK]
+solaceiotteam/apim-connector-server   Solace API-M Connector                          1                    
+alexlesser/ring                       i`m tired                                       0                    
+sopanz/fingertips-backend             M&M Fingertips backend                          0                    
+oydeu/app-relationship                Finde gemeinsam mit deiner/m Partner/in hera…   0                    
+measurementlab/nodeinfo               Collect data from M-Lab nodes                   0                    
+measurementlab/dash                   neubot/dash experiment for M-Lab                0                    
+pedasoft/kognisis                     m                                               0                    
+dachs/dachs-cf-docker                 M&S Platform Engineering Team - testing and …   0                    
+agaudelas/bench_m                     Benchmark images - M                            0                    
+staphb/emm-typing-tool                Assign emm type and subtype by querying the …   0                    
+keylimetoolbox/mmonit                 M/Monit                                         0                    
+dachscf/dachs-cf-docker               M&S Platform Engineering Team - testing and …   0                    
+oydeu/app-relationship_armhf          Finde gemeinsam mit deiner/m Partner/in hera…   0                    
+manuelexpunged/guacamolesharp         README: https://github.com/m-expunged/guacam…   0                    
+amrawad24/tools                       m                                               0                    
+jfink5/ctm-images                     Repo for Control-M images                       0                    
+controlm/helix-agent                  An image of the Helix Control-M/Agent for Ma…   0                    
+measurementlab/packet-test            From https://github.com/m-lab/packet-test       0                    
+mverge/iot-apis                       Thing management APIs used inside IOT Mode f…   0                    
+measurementlab/access                 The access envelope for services running on …   0                    
+krshailesh/filebench_cs681            m                                               0                    
+talentsec/lev.lorexxar.kunlunm        KunLun-M                                        0                    
+NAME                                            DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+nodesource/nsolid                               The Official N|Solid Docker Images              7                    
+francisbreit/chatwoot-n                         chatwoot-n                                      3                    
+ndesign/n-doc                                   TeX Live and accessories for creating docume…   1                    
+orbitable/bridge                                A n body simulation application.                1                    [OK]
+mynaparrot/plugnmeet-server                     Plug-N-Meet server                              1                    
+ncompass2020/ncompass_dashboard                 N-Compass Client Dashboard                      0                    
+danielmartinezvigo/docker-janus-screensharing   N/A.                                            0                    [OK]
+gohergo/nstar                                   n                                               0                    [OK]
+sbx320/mtasa-blue-azure                         n o                                             0                    [OK]
+maitestarossa/mm                                n                                               0                    [OK]
+dtheodor/ncube-ingest                           n-cube ingest service                           0                    
+3vilgenius/nginx-proxy                          n/a                                             0                    [OK]
+sacashgit/enterprise                            This repo contains N Tier Enterprise app        0                    
+lamden/cilantro_full                            big n chonky                                    0                    
+cshutchinson08/experiment-magicsquare           CSP solver for Magic Square n^2 search.         0                    
+jmddk/concept                                   COsmological N-body CodE in PyThon              0                    
+ddtraining/discounts-service-fixed              Fixed N+1 Discounts Service                     0                    
+always3133/dotnetcorebenchmark                  n-body spectral-norm                            0                    [OK]
+utspark/rddr                                    Proxy for n-versioning microservices            0                    
+ddtraining/discounts-service                    Discounts Microservice with Example N+1 Query   0                    
+seandietrich/ci-agent                           N/A                                             0                    [OK]
+nodesource/nsolid-cli                           The Official N|Solid Docker Images              0                    
+quickcorp/qcobjects                             A framework to make micro-services and micro…   0                    
+dimkk/nodebb                                    n                                               0                    [OK]
+adyach/nakadi-docker                            !!! DEPRECATED !!! \n use https://github.com…   0                    
+NAME                               DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+tianon/mojo                        Mojolicious! \o/ http://mojolicio.us/ (Perl …   10                   [OK]
+hacklab/mapasculturais-nginx       Imagem Docker do NGINX para uso com o MapasC…   3                    
+ljishen/fio                        Fio is an I/O tool used for workload generat…   3                    [OK]
+petersz83/xmrig_monero_miner       xmrig 5.5.0 Usage:  xmrig -o POOL ADDRESS -u…   1                    
+ammmze/dns-o-matic                 Docker Image for running updating dns-o-matic   1                    [OK]
+aprendendolinux/glpi-alpine        Implantando o GLPI com o Docker                 0                    
+tchughesiv/postgresql-95-centos7   postgresql-95-centos7 w/o nss_wrapper           0                    [OK]
+aprendendolinux/glpi               Implantação de GLPI com o Docker                0                    
+runcom/cri-o-system-container      CRI-O system container                          0                    [OK]
+gdetrez/scanomatic                 Scan-o-Matic (Experimental)                     0                    [OK]
+kvaps/fio                          Flexible I/O Tester                             0                    [OK]
+saschagrunert/criocircle           The engine for powering CRI-O builds on Circ…   0                    
+saibalg/skgprj4                    o;ympus project 4                               0                    
+felixb/autostacker                 Run autostacker24 w/o installing ruby.          0                    [OK]
+daniel211201/nginx-base            Nginx base para o odoo                          0                    
+edmur/cptm-alerts                  Notificações sobre o status nas linhas dos t…   0                    
+danielucb/ubuntu                   Repositórios do ubuntu compatíveis com o ope…   0                    
+saye16/fio                         FIO- I/O benchmarking tool                      0                    
+lxylxy123456/bugswarm-cache4       mvn -o patch, 335 pass, 23 broken               0                    
+robertvilvert/info-web-nginx       Informações sobre o container                   0                    
+openebs/mayastor-agent-ha-node     Mayastor control plane - I/O path HA monitor…   0                    
+b2wasgard/redis                    Imagem para rodar o redis                       0                    
+sbx320/mtasa-blue-azure            n o                                             0                    [OK]
+tvial/o-admin                      o-admin                                         0                    [OK]
+fjunior/my-app                     php8.2-app seguindo o urnal                     0                    
+NAME                                            DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+rohitbasu77/oracle11g                           docker run -d --name oracle11g -p 40022:22 -…   63                   
+frekele/wildfly                                 docker run --rm --name wildfly -p 8080:8080 …   5                    [OK]
+mcp/sentry                                      A Model Context Protocol server for retrievi…   4                    
+frekele/nexus                                   docker run --rm --name nexus -p 8081:8081 fr…   4                    [OK]
+thomasjp0x42/packetcrypt                        PacketCrypt Miner 0.5.1  docker run thomasjp…   4                    
+frekele/nginx                                   docker run --rm --name nginx -p 80:80 -p 443…   4                    [OK]
+zeppelinux/ninjam-server                        https://forum.cockos.com/showthread.php?t=23…   3                    
+bharathshetty4/supermario                       Infinite Mario game in HTML5 JavaScript, run…   2                    
+ubnt/ucrm-conntrack                             Solves the issue with udp packets routing af…   1                    
+ider/xxnet                                      docker run  --restart=always -p 8085:8085 -p…   1                    [OK]
+webstyle/ijro-document-server                   docker run -i -t -d -p 8080:80 webstyle/ijro…   0                    
+jonasmoss/p-hacking                             p-hacking docker                                0                    
+dynatrace/dynatrace-push-event-bitbucket-pipe   https://bitbucket.org/product/features/pipel…   0                    
+tomreeb/web                                     docker run -p 8080:80 -d tomreeb/web            0                    
+wizzzozzz/jenkins                               docker run -p 8080:8080 -p 50000:50000 -v /y…   0                    
+jluxo/chaosd-init                               testing :-P                                     0                    
+omelnyk/hero-go                                 Run image: docker run -p 5001:5001 -p 5000:5…   0                    
+hasanweight/detection3                          docker run --rm -it -p 80:80 hasanweight/det…   0                    
+bklaric/saft                                    p                                               0                    [OK]
+peplamb/2e96946f-d05a-4f63-a369-72d7d6e513b8    bible p                                         0                    
+sujitdmello/eshopwebmvc                         docker run -p 8080:80 sujitdmello/eshopwebmv…   0                    
+mcomteam/p-shop                                 p-shop                                          0                    
+masoncusack/pmeanssearch                        Searching using p-means sentence embeddings     0                    
+dimkk/l24u-patch                                p                                               0                    [OK]
+pamudithai/waterservice                         p                                               0                    [OK]
+NAME                                 DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+ai/llama3.2                          Solid LLaMA 3 update, reliable for coding, c…   17                   
+richardchien/cqhttp                  （DEPRECATED）在 Docker 中使用 酷Q 及 CQHTTP…           14                   
+adamantium/flutter                   Android Q and Flutter SDKs, built on top of …   5                    [OK]
+pennbbl/qsiprep                      Preprocessing and reconstruction of q-space …   4                    
+isafetech/chatchat                   A local Q&A application. The goal is to buil…   1                    
+diegogo/q2a                          A dockerize implementation of Question2Answe…   1                    
+fnndsc/pypx                          Core PACS Q/R interaction                       1                    
+nzzonline/q-election-votes           Q election votes                                0                    
+qblockchain/q-client                 Q Client                                        0                    
+stevencooney/docker-test             q                                               0                    [OK]
+thombahm/web2                        Web programming 2, Winter Q 2024                0                    
+jonam/ssr-with-net-speeder           q                                               0                    [OK]
+somsakdocker3710/ktaxaqdoc           KTAXA Q-Doc OpenShift                           0                    
+davidyun/koala                       q                                               0                    
+streamboxx/mp4-automator_hvec_auto   q                                               0                    [OK]
+qretex/q-landing-frontend            q-landing-frontend                              0                    
+ecfsystems/goodquestions             GoodQuestions Q&A platform                      0                    [OK]
+gfanz/seqkit                         SeqKit - a cross-platform and ultrafast tool…   0                    
+lfoppiano/document-insights-qa       Scientific Document Insight Q/A                 0                    
+staphb/seqtk                         Toolkit for processing sequences in FASTA/Q …   0                    
+zmb27611/a2w                         q                                               0                    [OK]
+andex07/andreytest3                  rqwtq3werqwerqw q  q qwe r  q q                 0                    
+qblockchain/q-explorer               Block explorer for the Q Blockchain             0                    
+316629/ncsdk                         q                                               0                    
+nvlatyshev/utils                     q                                               0                    [OK]
+NAME                            DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+r-base                          R is a system for statistical computation an…   553       [OK]       
+linuxserver/plexpy              DEPRECATED PLEASE USE https://hub.docker.com…   198                  [OK]
+rocker/tidyverse                Version-stable build of R, rstudio, and R pa…   196                  [OK]
+rocker/r-base                   Basic R for Rocker And Official 'r-base'        88                   [OK]
+rocker/r-ver                    Reproducible builds to fixed versions of R      63                   [OK]
+rocker/shiny-verse              Rocker Shiny image + Tidyverse R packages. U…   62                   [OK]
+rocker/geospatial               Docker-based Geospatial toolkit for R, built…   54                   [OK]
+bitnamicharts/redis             Bitnami Helm chart for Redis(R)                 30                   
+rocker/ml                       Docker images with R + GPU support for machi…   18                   [OK]
+treehouses/rpi-couchdb          Checkout the Multi Architecture repo at http…   13                   
+rocker/r-ubuntu                 Basic R container using Ubuntu LTS              10                   
+rocker/r-apt                    R-related apt-get information                   7                    [OK]
+apache/spark-r                  R on Spark                                      4                    
+antrea/confluentinc-kafka       Copy of https://hub.docker.com/r/confluentin…   3                    
+osrf/ubuntu_32bit               Deprecated please use https://hub.docker.com…   2                    
+grafana/slack-notify            Fork of https://hub.docker.com/r/technosopho…   2                    
+sitespeedio/firefox             Deprecated: Please use https://hub.docker.co…   2                    [OK]
+rocker/drp                      R-patched                                       1                    [OK]
+sitespeedio/chrome              Deprecated: https://hub.docker.com/r/sitespe…   1                    [OK]
+antrea/confluentinc-zookeeper   Copy of https://hub.docker.com/r/confluentin…   0                    
+semoss/docker-r-packages        R packages on top of docker-r                   0                    [OK]
+blockspring/r                                                                   0                    
+nanozoo/r_ggplot2               various R tools                                 0                    
+bitnamicharts/redis-cluster     Bitnami Helm chart for Redis(R) Cluster         0                    
+semoss/docker-r-python          Python and JEP on top of docker-r-packages      0                    [OK]
+NAME                                  DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+mace/eap-controller                   TP-Link´s EAP Controller                        12                   [OK]
+antoniomika/sish                      An open source serveo/ngrok alternative. HTT…   10                   
+andrewmhub/transmission-tracker-add   See no peers for some torrent(s)? Add more t…   9                    
+nshttpd/mikrotik-exporter             Mikrotik Device(s) exporter for Prometheus      8                    
+cirocosta/gitserver-http              Nginx backed git http(s) server                 4                    [OK]
+n3llyb0y/wait                         wait for port(s) in linked containers           3                    
+dodeeric/omeka-s                      Omeka-S web publishing platform for digital …   3                    
+taskana/db2                           Preconfigured db2 database(s) for taskana       3                    
+yegor256/squid-proxy                  Simple HTTP/S proxy with Squid                  2                    
+atlassian/pipelines-auth-proxy        A sidecar that acts as a git http(s) proxy t…   1                    
+pedroperezmsft/iperf3-server          iPerf3 '-s' (Server only)                       1                    
+eucm/rage-analytics-usermodel         RAGE Analytics User Model; provides S-S (Ser…   1                    [OK]
+eucm/rage-gamestorage-server          RAGE Analytics User Model; provides S-S (Ser…   1                    [OK]
+swiftbiosci/sarscov2analysis          Swift Sarscov2 and S-Gene Amplicon analysis     1                    
+wearejust/docker-compose              s                                               0                    [OK]
+sandeep9666/cluster-autoscaler        for k8's cluster auto scaling                   0                    
+cindynt/s-deploy                      openfaas s-deploy                               0                    
+magentaaps/esani-pantportal           Pantportal for ESANI A/S                        0                    
+market/mailcatcher                    sj26's mailcatcher                              0                    
+suitools/test                         Docker Images for @s-ui/test tool               0                    
+successatschool/docker-sas-web        Web container for main S@S site                 0                    [OK]
+mcp/onlyoffice-docspace               ONLYOFFICE DocSpace is a room-based collabor…   0                    
+theanurin/http-dump                   Dumps HTTP(s) requests into files               0                    
+dachs/dachs-cf-docker                 M&S Platform Engineering Team - testing and …   0                    
+nanozoo/fastqc                        FROM: https://github.com/s-andrews/FastQC       0                    
+NAME                        DESCRIPTION               STARS     OFFICIAL   AUTOMATED
+dtagdevsec/suricata         T-Pot Suricata            29                   [OK]
+dtagdevsec/spiderfoot       T-Pot Spiderfoot          16                   [OK]
+dtagdevsec/dionaea          T-Pot Dionaea             15                   [OK]
+dtagdevsec/cowrie           T-Pot Cowrie              8                    [OK]
+dtagdevsec/honeytrap        T-Pot Honeytrap           5                    [OK]
+dtagdevsec/elasticsearch    T-Pot Elasticsearch       4                    [OK]
+dtagdevsec/logstash         T-Pot Logstash            4                    [OK]
+dtagdevsec/elasticpot       T-Pot Elasticpot          3                    [OK]
+dtagdevsec/conpot           T-Pot Conpot              3                    [OK]
+dtagdevsec/snare            T-Pot Snare               3                    
+dtagdevsec/kibana           T-Pot Kibana              2                    [OK]
+dtagdevsec/mailoney         T-Pot Mailoney            2                    [OK]
+dtagdevsec/adbhoney         T-Pot Adbhoney            2                    
+dtagdevsec/tanner           T-Pot Tanner              1                    
+dtagdevsec/tpotinit         T-Pot Technical Preview   1                    
+dtagdevsec/p0f              T-Pot p0f                 1                    [OK]
+dtagdevsec/heralding        T-Pot Heralding           0                    
+dtagdevsec/nginx            T-Pot Nginx               0                    
+dtagdevsec/medpot           T-Pot Medpot              0                    
+dtagdevsec/redis            T-Pot Redis               0                    
+dtagdevsec/phpox            T-Pot Phpox               0                    
+dtagdevsec/ewsposter        T-Pot Ewsposter           0                    [OK]
+dtagdevsec/fatt             T-Pot Fatt                0                    
+dtagdevsec/citrixhoneypot   T-Pot Citrixhoneypot      0                    
+dtagdevsec/dicompot         T-Pot Dicompot            0                    
+NAME                                        DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+wnameless/mysql-phpmyadmin                  MySQL + phpMyAdmin https://index.docker.io/u…   47                   [OK]
+morrisjobke/docker-swift-onlyone            Fork of https://registry.hub.docker.com/u/se…   22                   [OK]
+wnameless/postgresql-phppgadmin             postgresql + phpPgAdmin https://index.docker…   15                   [OK]
+lyft/envoy                                  ATTENTION: DO NOT USE: MOVED TO https://hub.…   13                   
+lyft/envoy-alpine                           ATTENTION: DO NOT USE: MOVED TO https://hub.…   6                    
+germanramos/nginx-php-fpm                   Nginx and php-fpm for dockerhub builds https…   4                    [OK]
+petersz83/xmrig_monero_miner                xmrig 5.5.0 Usage:  xmrig -o POOL ADDRESS -u…   1                    
+trini/u-boot-gitlab-ci-runner               Containers for building Das U-Boot in a GitL…   1                    
+drcsim/drcsim                               Wii U gamepad simulator backend.                1                    [OK]
+albrechtloh/openwrt-docker                  OpenWrt docker container for x86_64, arm64 a…   1                    
+ultramcu/ubuntu4bbb                         BBB u-boot and sysroot dev env                  0                    [OK]
+aleksandarqm/cc                             Racunarstvo u oblaku                            0                    
+katherinezapata/demo                        u project                                       0                    
+staynerzone/cloudy-swiss-knife              everything u need for openstack,bosh,concour…   0                    
+lyft/envoy-build                            ATTENTION: DO NOT USE: MOVED TO https://hub.…   0                    
+evisioncontrol/control                      Moving to https://hub.docker.com/u/evisionte…   0                    
+nulconaux/sonarqube                         There is u can find custom images for SonarQ…   0                    
+lyft/envoy-alpine-debug                     ATTENTION: DO NOT USE: MOVED TO https://hub.…   0                    
+utestfactory/centos_compile_utest_jenkins   Jenkins build node to compile U-TEST            0                    [OK]
+gamorosino/bl_app_dbb_disseg                3D U-Net for brain tissue segmentation          0                    
+fabioluciano/docker-php-alpine              u                                               0                    [OK]
+liltaz/u-boot-builder-arm64                 u-boot buildind image for arm64                 0                    
+projecteverest/fstar-linux                  DEPRECATED. Please use official Docker image…   0                    
+patrickha/servu                             SolarWinds Serv-U FTP Server                    0                    
+milas/rock5-u-boot                          Rock 5 U-Boot data container                    0                    
+NAME                                        DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+trueosiris/vrising                          V Rising Dedicated Server                       34                   
+superitman/fail2ban                         Fail2Ban (v 0.8.13-1) for Docker. Contains a…   18                   [OK]
+coqorg/coq                                  Docker images of Coq (v. 8.4 to 8.20): a Roc…   13                   [OK]
+jhipster/consul-config-loader               A small docker based tool to load Spring Boo…   9                    [OK]
+thevlang/vlang                              A container for latest development versions …   8                    
+ugeek/supysonic                             supysonic a python implementation of Subsoni…   3                    
+cksystemsteaching/selfie                    Selfie tools (RISC-V spike emulator and pk k…   3                    [OK]
+theypsilon/quartus-lite-c5                  Quartus Lite for Altera Cyclone V               2                    
+docoduck/blynk-server                       Blynk server v.0.41.13 (Latest) and always u…   1                    
+barbem/risc-v_cep                           RISC-V toolchain and Qemu CEP machine.          1                    
+adurantz/armv7-rethinkdb                    RethinkDB v 2.4.1 built on Ubuntu for Raspbe…   1                    
+skilldlabs/docker-phpcs-drupal              docker run --rm -v $(pwd):/work skilldlabs/d…   1                    
+manthisx/vald                               v                                               0                    
+unit9/react-node-v10                        React + Node v. 10                              0                    
+jbthechamp/redis-server                     redis-server v. 3.0                             0                    
+hostfactor/vrising-server                   Linux Docker container for V Rising             0                    
+lavvy/tumtum-openvoucher2-deb               v                                               0                    [OK]
+dosxvpn/strongswan                          VPN image used for dosxvpn (https://github.c…   0                    [OK]
+itsjeffreyy/samtools                        samtools v.1.19                                 0                    [OK]
+pbxg33k/php-jav-toolbox-api                 https://www.youtube.com/watch?v=zBDCq6Q8k2E     0                    [OK]
+riscvintl/riscv-docs-base-container-image   The base container image for building RISC-V…   0                    
+datasysm2n/dskpmg_printer                   Image pro puppeteer sharp v Azure               0                    
+devbegroupcompanies/ci                      v.0.0.4 - php8.1, v.0.0.5 - php8.2              0                    
+aryaveerj/redis-cluster                     Redis v<7                                       0                    
+macaronios/mark-v                           Macaroni MARK-V Official Image                  0                    
+NAME                                   DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+jupyter/tensorflow-notebook            Scientific Jupyter Notebook Python Stack w/ …   372                  
+google/docker-registry                 Docker Registry w/ Google Cloud Storage driv…   57                   
+colinmollenhour/mariadb-galera-swarm   MariaDb w/ Galera Cluster, DNS-based service…   37                   [OK]
+yamitzky/mecab-bottle                  MeCab API w/ NEologd on Docker                  6                    [OK]
+staphb/kraken2                         Kraken2: Taxonomic sequence classifier. Some…   5                    
+mcp/duckduckgo                         A Model Context Protocol (MCP) server that p…   3                    
+cubyn/node                             Node.js base container /w Yarn (no npm)         3                    
+cthulhoo/postgres-count-bits           postgresql w/ count-bits                        1                    
+boiyaa/google-cloud-sdk-nodejs         Google Cloud SDK w/ Node.js                     1                    [OK]
+camunda/sap-odata-connector            Camunda-SAP Integration component for intera…   1                    
+aibaars/docker-registry2-gcs           Docker Registry2 w/ Google Cloud Storage dri…   1                    
+jashandeepsohi/sentry-saml2            sentry w/ saml2 support                         1                    [OK]
+younata/tox                            python:latest w/ Tox                            1                    
+openhorizon/ps3eye-streamer-pi3        Docker build of PS3 Eye camera streaming w. …   0                    
+napstr/poggres                         postgres container w/ benefits                  0                    
+rudolfrandal/registrator               registrator w. skydns2 over https plugin        0                    
+cilerler/microsoft-mssql-tools         mssql-tools w/ Powershell                       0                    
+harzinn/pydev                          Ubuntu w/ python3 & VIM                         0                    
+geocodio/fluentbit-docker-client       Fluenbit w/ Docker Client                       0                    
+sagniks/discordjs-node12               Discord.js Dockerfile w/ Node 12                0                    
+coco/list-notifications-rw             List Notifications R/W                          0                    [OK]
+ubuntu/glauth                          Go-lang LDAP Authentication (GLAuth) is a se…   0                    
+kiwicom/sentry                         Custom Sentry Docker image w/GitLab SSO supp…   0                    [OK]
+chainio/lambda-ci-nodejs10.16          Node 10.16 w/ yarn for circleci                 0                    
+socratessystems/amazonlinux            amazonlinux /w aws cli                          0                    [OK]
+NAME                                  DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+rancher/server                        Rancher 1.x Server Container                    608                  
+jrottenberg/ffmpeg                    FFmpeg 2.8 - 3.x - 4.x Copyright (c) 2000-20…   460                  [OK]
+broadinstitute/gatk                   Official release repository for GATK version…   116                  
+wyveo/nginx-php-fpm                   Nginx + PHP-FPM 8.1.x / 8.0.x / 7.4.x / 7.3.…   109                  [OK]
+monitoringartist/grafana-xxl          Dockerized Grafana 5.x/4.x/3.x with all prei…   91                   [OK]
+adferrand/backuppc                    Docker container with BackupPC version 4.x/3…   61                   [OK]
+oliver006/redis_exporter               Prometheus Exporter for Redis Metrics. Supp…   49                   
+tatsushid/tinycore                    Tiny Core Linux 10.x, 9.x, 8.x, 7.x and 6.x …   39                   [OK]
+amazon/aws-xray-daemon                The AWS X-Ray daemon gathers raw segment dat…   35                   
+pgautoupgrade/pgautoupgrade           PostgreSQL container which upgrades the data…   25                   
+antage/apache2-php5                   Docker image for running Apache 2.x with PHP…   23                   [OK]
+rasa/rasa-x                           Rasa X                                          19                   
+dcm4che/postgres-dcm4chee             PostgreSQL for dcm4che-arc 5.x                  9                    [OK]
+rockmagicnet/sencha-cmd               Sencha Cmd 7.0.0, 6.x, 5.x and 4.x              5                    [OK]
+rasa/nginx                            Rasa X nginx server                             2                    
+namshi/aws-xray                       AWS X-Ray daemon image                          2                    [OK]
+powerdns/pdns-recursor-45             PowerDNS Recursor v4.5.x                        2                    
+listar1111/xdl                        x-deeplearning image                            1                    
+webulos/docker-drupal7-drush          Drupal 7.x with Drush 8.x                       0                    [OK]
+mikepivotal/concourseresources        AWS Cloudformation- for customer- removes -X    0                    
+islandora/hypercube                   Tesseract as a microservice for use with API…   0                    
+fish/nvidia_gpu_prometheus_exporter   x                                               0                    [OK]
+neemuchaordic/kibana-without-xpack    kibana without x-pack                           0                    [OK]
+secoresearch/pylode                   pyLODE 2.x. An OWL ontology documentation to…   0                    
+stagex/libksba                        Libksba is a CMS and X.509 access library       0                    
+NAME                                   DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+cuenca/speid                           Envía y recibe órdenes SPEI. Utilizando Rabb…   1                    
+mugen/ubuntu-build-essential           ubuntu with apt-get update && apt-get instal…   1                    
+jockjaimes01/awscli-terraform          imagen con terraform y awscli y kubectl         1                    
+ksofkdfsaasd33fsdf/p16                 Django y react                                  1                    
+datosgobar/portal-base                 Imagen base para los portales andino y datos…   1                    [OK]
+giansalex/peru-consult-api             API Gratuita para consultar RUC y DNI - Perú    1                    [OK]
+datosgobar/portal-base-solr            Imagen solr para el portal andino y datosgob…   1                    [OK]
+datosgobar/portal-base-nginx           Nginx para el portal andino y datosgobar        1                    [OK]
+slackrlobo/zabbix-ntop                 zabbix y ntop                                   1                    
+marcosartori/y-cruncher                small y-cruncher image                          0                    
+energusinovacijos/aws-cli-with-tools   plius tools yum update -y yum install -y tar…   0                    
+adrius/ricardo                          Ricardo Ricón Sr. pero del Merval (y devalu…   0                    
+fierrotests/python-postgres-java       python2.7,  postgressql y default-jdk           0                    
+endorseek/api_twitter                  api para pedir los datos de una zona y usuar…   0                    
+solsson/ystack-runner                  https://github.com/y-stack/ystack               0                    
+flypass/microservice                   Imagen con Maven y ECS CLI tools                0                    
+mpizarro/kibanatest                    Mock Angular y Spring Boot generados con jhi…   0                    
+endorseek/api_twitterlogica            api para pedir los datos de un usuario y tra…   0                    
+cencor/gradle                          Imagen Amazon Linux, Amazon Corretto Java, G…   0                    
+yungsang/centos65                      centos + yum -y update                          0                    
+industriaspugliesesa/mkdocs-lftp       Una instalación minima con mkdocs y lsftp pa…   0                    
+andesnqn/nginx                         Andes App compilada y servida con Nginx         0                    
+endorseek/api_renta                    api para solicitar varios datos sobre la ren…   0                    
+rgalindoluis/ibkappwebdocker           Mantenimiento cliente con springboot y docker   0                    
+almaur/android-node                    Android 25.0.0 a 29.0.0 con Ionic cli 5 y co…   0                    
+NAME                          DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+zshusers/zsh                  Z shell container.                              21                   
+fgabriel/rpi-home-assistant   Home Assistant for RPI3 with z-wave support.    9                    
+geirgp/rpi-zway-server        Z-Way is "Z-Wave.Me's flagship software to c…   3                    
+dawn001/z_mirror              Images for https://github.com/Dawn-India/Z-M…   3                    
+chrishyze/zblogphp            Z-BlogPHP                                       2                    
+moov/auth                     API and user authn/z service for moov.io        2                    
+kopano/kopano_zpush           Kopano Z-Push image                             2                    
+17halbe/z-push                Configurable z-push image designed to work i…   1                    
+ruimarinho/z-way              A Z-Way server docker image.                    1                    [OK]
+zokradonh/kopano_zpush        Kopano Z-Push image                             1                    [OK]
+darkjeff/zpush-zimbra         Z-push with zimbra backend                      1                    [OK]
+fundisoftware/taw-elastic     Operations Analytics for z/OS in Elastic usi…   1                    
+zinvoice/eureka-server        z-invoice eureka server                         0                    
+matejkosiarcik/azlint         Lint everything From A to Z                     0                    
+cloudzcp/zcp-portal-ui        Docker Image for Cloud Z CP - Console           0                    [OK]
+eladbar/ha-zwave-network      Home Assistant Z-Wave Network Viewer            0                    
+masdaniel/f-and-z-layouts     IS601 homework to make web pages in F Layout…   0                    
+chrisns/iot-zwave             Z-Wave AWS-IOT Bridge/Gateway                   0                    
+cointrageproject/bitz-node    Bit-z communication node                        0                    [OK]
+rajesh007x/websystem          Trying Z and F layouts                          0                    
+sinenomine/mariadb-s390x      A MariaDB 10.1.9 container for Linux on z Sy…   0                    
+rdya/mariadb                  MariaDB for s390x (IBM Z)                       0                    
+rajesh007x/layouts            Web system Z and F layouts                      0                    
+k3rnelj/mclick                z                                               0                    [OK]
+lukaszbielinski/slave-maven   slave maven z forka                             0                    [OK]
